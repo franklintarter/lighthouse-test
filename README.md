@@ -24,11 +24,9 @@ package.json
 
 ```json
 {
-  // ...
   "scripts": {
     "lighthouse": "lighthouse-test http://localhost:9000 90"
   }
-  // ..
 }
 ```
 
